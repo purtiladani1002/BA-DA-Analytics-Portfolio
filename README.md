@@ -3,7 +3,7 @@
 Aspiring Business Analyst showcasing hands-on projects in Excel, SQL, and Power BI.
 
 📍 Hamilton, Ontario, Canada
-📩 purtiladani@gmail.com
+📩 purtiladani1002@gmail.com
 🔗 linkedin.com/in/purtiladani
 
 ---
