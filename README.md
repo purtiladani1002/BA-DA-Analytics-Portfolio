@@ -34,4 +34,4 @@ Excel | SQL | Power BI | Jira | Confluence | Business Analysis | Data Analytics
 
 ## 📩 Contact:
 - 🔗 LinkedIn: linkedin.com/in/purtiladani
-- 📧 Email: purtiladani@gmail.com
+- 📧 Email: purtiladani1002@gmail.com
